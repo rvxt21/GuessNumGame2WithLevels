@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\bin\Debug\netcoreapp3.1\GuessNum2.exe
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\bin\Debug\netcoreapp3.1\GuessNum2.deps.json
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\bin\Debug\netcoreapp3.1\GuessNum2.runtimeconfig.json
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\bin\Debug\netcoreapp3.1\GuessNum2.runtimeconfig.dev.json
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\bin\Debug\netcoreapp3.1\GuessNum2.dll
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\bin\Debug\netcoreapp3.1\GuessNum2.pdb
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.AssemblyInfo.cs
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.dll
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.pdb
+C:\Users\anast\source\repos\GuessNum2\GuessNum2\obj\Debug\netcoreapp3.1\GuessNum2.genruntimeconfig.cache
