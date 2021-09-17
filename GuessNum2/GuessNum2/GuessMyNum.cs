@@ -7,12 +7,12 @@ namespace GuessNum2
     class GuessMyNum
     {
 
-       protected int tries_count;
-       protected int winRate;
+      
+       protected int winRate=0;
        protected int[] numberOfAttempts = new int[] { };
        protected  int value;
        protected int numlevels;
-       protected int numAttempts;
+      
         public GuessMyNum() 
         {
             Console.WriteLine("Start game!");
@@ -30,7 +30,7 @@ namespace GuessNum2
                 numberOfAttempts[i] = Convert.ToInt32(Console.ReadLine());
             }
             int yourNum;
-            for (int i=0;i< numberOfAttempts.Length; i++)
+            for (int i=0;i< numberOfAttempts.Length;i++)
             {
                 Console.WriteLine($"This is {i + 1} level!\nEnter your num to guess:\n");
                 for (int j = 0; j <= numberOfAttempts[i]; j++)
@@ -57,6 +57,10 @@ namespace GuessNum2
                         }
                         Random rnd = new Random();
                         value = rnd.Next(0, 100);
+                    }
+                    if (winRate == i + 1)
+                    {
+                        j = numberOfAttempts[i];
                     }
                    
                 }
